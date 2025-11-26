@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Henk Jongbloed"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Henk Jongbloed"
 description              : &description "Postdoc in Political Science"
 url                      : https://henkjongbloed.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               :
 twitter:
   username               : 
 facebook:
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Henk Jongbloed"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Postdoctoral researcher"
   location         :
   employer         :
   pubmed           :
